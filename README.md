@@ -51,11 +51,10 @@ You can check out these projects and more on my Portfolio!
 
 Connect with Me!
 ## 🤝 Connect With Me
-<p align="left">
+<p>
 <a href="https://linkedin.com/in/abigailbravo">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-
 
 <a href="https://abbybravo.com">
 <img src="https://img.icons8.com/fluency/48/domain.png" height="40"/>
