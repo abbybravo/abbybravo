@@ -5,6 +5,7 @@ Interested in Project Management, engineering design, and combining engineering 
 
 <p>
 📍Houston, TX
+   
 🎓 Class of 2027
 </p>
 
