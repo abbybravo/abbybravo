@@ -16,7 +16,8 @@ Interested in Project Management, engineering design, and combining engineering 
 - Currently searching for PM roles in Tech. Have had final rounds with Microsoft (TPM) and Apple (Product Ops.). Fingers crossed! 🤞 (Summer 2026)
 
 ## Skills 🤓
-  ![Programming](https://skillicons.dev/icons?i=python,cpp,html,sql) ![Web](https://skillicons.dev/icons?i=react,nextjs) ![Systems](https://skillicons.dev/icons?i=linux)
+  ![Programming](https://skillicons.dev/icons?i=python,cpp,html,sql) 
+  ![Web](https://skillicons.dev/icons?i=react,nextjs) ![Systems](https://skillicons.dev/icons?i=linux)
   
   <p>
   <img src="https://img.icons8.com/color/48/solidworks.png" height="40"/>
