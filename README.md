@@ -13,21 +13,26 @@ Interested in Project Management, engineering design, and combining engineering 
 - Currently searching for PM roles in Tech. Have had final rounds with Microsoft (TPM) and Apple (Product Ops.). Fingers crossed! (Summer 2026)
 
 ## Skills 🤓
-  # 💻 Programming
+   💻 Programming
   
   ![Programming](https://skillicons.dev/icons?i=python,cpp,html,sql)
   
-  # 🌐 Web Development
+   🌐 Web Development
   
   ![Web](https://skillicons.dev/icons?i=react,nextjs)
   
-  # 🖥 Systems
+   🖥 Systems
   
   ![Systems](https://skillicons.dev/icons?i=linux)
   
-  # ⚙️ Engineering & Data Tools
+   ⚙️ Engineering & Data Tools
   
-  AutoCAD • SolidWorks • Power BI • Tableau • Synchro • Microsoft Excel • Google Sheets
+  <img src="https://img.icons8.com/color/48/solidworks.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/autodesk.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/project.png" height="40" title="Synchro"/>
 
 ## Featured Projects 👩‍💻
 🌐 Portfolio Website
