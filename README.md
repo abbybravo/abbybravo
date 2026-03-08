@@ -17,7 +17,9 @@ Interested in Project Management, engineering design, and combining engineering 
 
 ## Skills 🤓
   ![Programming](https://skillicons.dev/icons?i=python,cpp,html,sql) 
+  
   ![Web](https://skillicons.dev/icons?i=react,nextjs) 
+  
   ![Systems](https://skillicons.dev/icons?i=linux)
   
   <p>
