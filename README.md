@@ -51,14 +51,9 @@ You can check out these projects and more on my Portfolio!
 
 
 ## Connect With Me! 🤝
-<p align="center">
-  <a href="mailto:abbybravo@gmail.com">
-    <img src="https://img.icons8.com/color/48/email.png" height="40" style="margin-right:15px;" title="Email"/>
-  </a>
   <a href="https://linkedin.com/in/abigailbravo">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn"/>
   </a>
-</p>
 
 ## Fun Facts 😁
 - I've been playing the Violin for 11+ years 🎻
