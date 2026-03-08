@@ -13,8 +13,21 @@ Interested in Project Management, engineering design, and combining engineering 
 - Currently searching for PM roles in Tech. Have had final rounds with Microsoft (TPM) and Apple (Product Ops.). Fingers crossed! (Summer 2026)
 
 ## Skills 🤓
-- AutoCAD
-- SolidWorks
+  # 💻 Programming
+  
+  ![Programming](https://skillicons.dev/icons?i=python,cpp,html,sql)
+  
+  # 🌐 Web Development
+  
+  ![Web](https://skillicons.dev/icons?i=react,nextjs)
+  
+  # 🖥 Systems
+  
+  ![Systems](https://skillicons.dev/icons?i=linux)
+  
+  # ⚙️ Engineering & Data Tools
+  
+  AutoCAD • SolidWorks • Power BI • Tableau • Synchro • Microsoft Excel • Google Sheets
 
 ## Featured Projects 👩‍💻
 🌐 Portfolio Website
@@ -35,6 +48,7 @@ Connect with Me!
 <a href="https://linkedin.com/in/abigailbravo">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
+
 
 <a href="https://abbybravo.com">
 <img src="https://img.icons8.com/fluency/48/domain.png" height="40"/>
