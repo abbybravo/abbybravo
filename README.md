@@ -49,14 +49,14 @@ Interested in Project Management, engineering design, and combining engineering 
 You can check out these projects and more on my Portfolio!
   👉 https://abbybravo.com/
 
-Connect with Me!
-## 🤝 Connect With Me
+
+## Connect With Me! 🤝
 <p align="center">
-  <a href="https://linkedin.com/in/YOURPROFILE">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right:10px;"/>
+  <a href="mailto:abbybravo@gmail.com">
+    <img src="https://img.icons8.com/color/48/email.png" height="40" style="margin-right:15px;" title="Email"/>
   </a>
-  <a href="https://yourdomain.com">
-    <img src="https://img.icons8.com/fluency/48/domain.png" height="40"/>
+  <a href="https://linkedin.com/in/abigailbravo">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn"/>
   </a>
 </p>
 
