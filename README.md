@@ -3,14 +3,16 @@
 Junior at the Unviersity of Houston, majoring in Mechanical Engineering and have a completed minor in Business Administration.
 Interested in Project Management, engineering design, and combining engineering and business to develop creative solutions.
 
+<p>
 📍Houston, TX
 🎓 Class of 2027
+</p>
 
 ## About Me 🤠
 - First-generation student from Mexican-immigrant parents
 - Interned with Bechtel Corporation as a Mechanical/Pipe Field Engineer my freshman year (Summer 2024)
 - Interned with Micron Technology as a Photomask Fab Support Engineer my sophomore year (Summer 2025)
-- Currently searching for PM roles in Tech. Have had final rounds with Microsoft (TPM) and Apple (Product Ops.). Fingers crossed! (Summer 2026)
+- Currently searching for PM roles in Tech. Have had final rounds with Microsoft (TPM) and Apple (Product Ops.). Fingers crossed! 🤞 (Summer 2026)
 
 ## Skills 🤓
    💻 Programming
