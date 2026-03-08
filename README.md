@@ -26,13 +26,15 @@ Interested in Project Management, engineering design, and combining engineering 
   ![Systems](https://skillicons.dev/icons?i=linux)
   
    ⚙️ Engineering & Data Tools
-  
+
+  <p>
   <img src="https://img.icons8.com/color/48/solidworks.png" height="40"/>
-     <img src="https://img.icons8.com/color/48/autodesk.png" height="40"/>
-     <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
-     <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
-     <img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/>
-     <img src="https://img.icons8.com/fluency/48/project.png" height="40" title="Synchro"/>
+  <img src="https://img.icons8.com/color/48/autodesk.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/project.png" height="40" title="Synchro"/>
+  </p>
 
 ## Featured Projects 👩‍💻
 🌐 Portfolio Website
