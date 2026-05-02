@@ -1,6 +1,6 @@
 ## Hi, my name is Abigail Bravo!
 
-Junior at the Unviersity of Houston, majoring in Mechanical Engineering and have a completed minor in Business Administration.
+Junior at the University of Houston, majoring in Mechanical Engineering and have a completed minor in Business Administration.
 Interested in Project Management, engineering design, and combining engineering and business to develop creative solutions.
 
 <p>
